@@ -6,7 +6,6 @@ if(height === 74){
 } else {
   console.log("Obese")
 }
-}
 // Don't worry about this
 module.exports = { name, height
 }
