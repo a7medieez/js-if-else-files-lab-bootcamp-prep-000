@@ -1,11 +1,6 @@
-var name = "Joe"
-var height = "74"
+var name = "Susan"
+var height = "70"
 
-if (height <= 84){
-  console.log("Fit")
-} else {
-  console.log("Obese")
-}
 // Don't worry about this
 module.exports = { name, height
 }
