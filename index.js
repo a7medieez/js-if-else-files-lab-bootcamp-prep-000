@@ -1,7 +1,7 @@
 var name = "Joe"
 var height = "74"
 
-if(height <= 84){
+if (height <= 84){
   console.log("Fit")
 } else {
   console.log("Obese")
