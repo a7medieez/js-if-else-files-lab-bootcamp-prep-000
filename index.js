@@ -1,5 +1,5 @@
 var name = "Joe"
-var height = "85"
+var height = "84"
 
 if(height <= 84){
   console.log("Fit")
